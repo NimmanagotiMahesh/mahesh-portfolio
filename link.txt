@@ -1,0 +1,3 @@
+ background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(2K5A6392-01.jpeg);
+   <img src="2K5A6392-01.jpeg" height="75px" weight="75px" alt="My Family">
+  
